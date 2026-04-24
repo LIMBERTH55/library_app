@@ -3,7 +3,7 @@
 **Materia:** INF560 - Desarrollo Web Backend  
 **Universidad:** Universidad Autónoma Tomás Frías (UATF), Potosí, Bolivia  
 **Profesor:** M. Sc. Huáscar Fedor Gonzales Guzmán  
-**Versión:** 1.0.0
+**Versión:**   tag v2 terminada de la guia 5 + los ejercicios propuestos 
 
 ---
 
