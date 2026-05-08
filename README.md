@@ -31,3 +31,8 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+
+
+---
+INF560 — Universidad Autónoma Tomás Frías  2026 bolivia
+
